@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS florio_db;
+CREATE DATABASE florio_db;
